@@ -1,0 +1,10 @@
+初次使用时，运行【摩根师兄.exe】程序。
+会自动生成【注册码.txt】文件。
+将【注册码.txt】发送给摩根师兄。
+然后把摩根师兄返给你的【license.json】文件放在当前目录下替换掉之前的【license.json】文件即可。
+
+
+摩根师兄联系方式：
+微信号：mo_gen_shi_xiong
+微信公众号：摩根师兄
+邮箱：mogenshixiong@qq.com

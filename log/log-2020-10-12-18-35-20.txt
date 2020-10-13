@@ -1,0 +1,18 @@
+error message :Cannot find module 'E:\mogenshixiong\app\attendance\routes\routes'
+error stack :Error: Cannot find module 'E:\mogenshixiong\app\attendance\routes\routes'
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:634:15)
+    at Function.Module._resolveFilename (pkg/prelude/bootstrap.js:1346:46)
+    at Function.Module._load (internal/modules/cjs/loader.js:560:25)
+    at Module.require (internal/modules/cjs/loader.js:690:17)
+    at Module.require (pkg/prelude/bootstrap.js:1225:31)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at module.exports (F:\snapshot\base_project\app\base\routes\routes.js:14:5)
+    at Object.<anonymous> (F:\snapshot\base_project\service.js:25:40)
+    at Module._compile (pkg/prelude/bootstrap.js:1320:22)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:787:10)
+    at Module.load (internal/modules/cjs/loader.js:651:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:591:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:583:3)
+    at Function.Module.runMain (pkg/prelude/bootstrap.js:1375:12)
+    at startup (internal/bootstrap/node.js:320:19)
+    at bootstrapNodeJSCore (internal/bootstrap/node.js:660:3)
